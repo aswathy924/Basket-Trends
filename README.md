@@ -1,1 +1,1 @@
-# Basket-Trends
+Developed an interactive web-based application for Market Basket Analysis using Python and Streamlit. Built the Apriori algorithm from scratch to identify frequent itemsets and generate association rules. Integrated comprehensive visualizations, including itemset trends, rule confidence plots, and network graphs, to provide actionable insights based on a predefined dataset. 
